@@ -1,3 +1,9 @@
 # Gratiflow
-GratiFlow is a React app designed to enhance well-being through meditation and journaling. It offers guided meditation sessions to help users relax and practice mindfulness, alongside a simple journaling feature for recording daily reflections and gratitude. GratiFlow empowers users to reduce stress, boost positivity, and build healthy mental habits—all in one easy-to-use platform
+GratiFlow is a React app designed to enhance well-being through meditation and journaling. It offers guided meditation sessions to help users relax and practice mindfulness, alongside a simple journaling feature for recording daily reflections and gratitude. GratiFlow empowers users to reduce stress, boost positivity, and build healthy mental habits—all in one easy-to-use platform.
+
+🌟 Technologies Used
+React: JavaScript library for building user interfaces.
+Vite: Fast, opinionated web build tool.
+CSS: Styles for layout and design.
+GitHub Pages: Hosting for easy deployment.
 
